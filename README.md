@@ -14,7 +14,7 @@ Build a reliable web product that can handle ~1k concurrent users without crashi
 - **LangChain** for orchestration
 - **Ollama** for local model serving
 
-### Normal Website (non‑AI part)
+### Normal Website (non-AI part)
 **Best choice: Next.js**
 - Full website + API routes in one place
 - Server-side rendering and SEO
